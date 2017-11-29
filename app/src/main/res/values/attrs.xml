@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="QQStepView">
+        <attr name="innerColor" format="reference" />
+        <attr name="outerColor" format="reference" />
+        <attr name="borderWidth" format="dimension" />
+        <attr name="stepTextColor" format="color" />
+        <attr name="stepTextSize" format="dimension" />
+        <attr name="currStep" format="integer" />
+        <attr name="maxStep" format="integer" />
+        <attr name="startWithAnim" format="boolean" />
+    </declare-styleable>
+</resources>
